@@ -14,3 +14,8 @@ Detail: final project of the subject predictive analytics where I work with the 
 ## Project 3: [COVID Vaccines in Argentina](https://github.com/VioletaSaguier/Proyecto/blob/main/VacunasArgentina.html)
 Detail: university project where I worked end-to-end on COVID vaccination data in Argentina. From data collection, cleaning and processing to visualization, conclusions and suggestions. Creation date: June 2021. 
 
+# Personal projects
+
+## Project 1: []()
+Subject: 
+Detail: Creation date: August 2023. 
